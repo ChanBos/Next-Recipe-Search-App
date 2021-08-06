@@ -1,5 +1,5 @@
 // Imported the Link API to support client-side navigation.
-import Link from "next/Link";
+import Link from "next/link";
 // Imported components from React Bootstrap.
 import { Container, Row } from "react-bootstrap";
 // Imported icons from FontAwesome. Also added "import "@fortawesome/fontawesome-svg-core/styles.css";" to allow styling the icons

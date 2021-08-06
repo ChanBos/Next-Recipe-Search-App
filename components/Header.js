@@ -1,5 +1,5 @@
 // Imported the Link API to support client-side navigation.
-import Link from "next/Link";
+import Link from "next/link";
 // Imported Font Awesome library and icons. Also added "import "@fortawesome/fontawesome-svg-core/styles.css";" to allow styling the icons.
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHome } from "@fortawesome/free-solid-svg-icons";

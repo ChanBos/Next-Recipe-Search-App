@@ -1,5 +1,5 @@
 // Imported the Link API to support client-side navigation.
-import Link from "next/Link";
+import Link from "next/link";
 // Imported React library and hooks.
 import { useRef } from "react";
 // Imported userRouter from Next's Router.
