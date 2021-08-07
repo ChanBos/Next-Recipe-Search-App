@@ -97,7 +97,7 @@ const Home = (props) => {
               <img
                 className="d-block w-100"
                 src="/static/images/Burger.png"
-                alt="Third slide"
+                alt="Fourth slide"
               />
               <Carousel.Caption>
                 <img
@@ -112,7 +112,7 @@ const Home = (props) => {
               <img
                 className="d-block w-100"
                 src="/static/images/Casserole.jpg"
-                alt="Third slide"
+                alt="Fifth slide"
               />
               <Carousel.Caption>
                 <img
@@ -127,7 +127,7 @@ const Home = (props) => {
               <img
                 className="d-block w-100"
                 src="/static/images/Pizza.jpg"
-                alt="Third slide"
+                alt="Sixth slide"
               />
               <Carousel.Caption>
                 <img
@@ -142,7 +142,7 @@ const Home = (props) => {
               <img
                 className="d-block w-100"
                 src="/static/images/Pudding.jpg"
-                alt="Third slide"
+                alt="Seventh slide"
               />
               <Carousel.Caption>
                 <img
