@@ -8,6 +8,8 @@
 
 > Next.js Recipe Search Application
 
+![Recipe App](https://github.com/ChanBos/My-Developer-Portfolio/blob/master/static/images/RecipeApp.png)
+
 ### ✨ [Link to the application](https://next-recipe-search-app.vercel.app/)
 
 ## Table of Contents:
