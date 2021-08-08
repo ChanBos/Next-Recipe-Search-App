@@ -32,13 +32,13 @@ cd folder/to/clone-into/`
 2. Enter git clone [repository_URL] into the terminal or command prompt. Code and link below:
 
 ```sh
-gh repo clone ChanBos/My-Developer-Portfolio`
+gh repo clone ChanBos/Next-Recipe-Search-App`
 ```
 
 3. If you want a different folder name, simply specify it as the last parameter. Example below:
 
 ```sh
-gh repo clone ChanBos/My-Developer-Portfolio other-name`
+gh repo clone ChanBos/Next-Recipe-Search-App other-name`
 ```
 
 This will create a new directory that will initialize a .git directory within it, pulling all of the data from this project. You will find all of the files and folders in this directory, enabling you to use and edit it to your liking.
